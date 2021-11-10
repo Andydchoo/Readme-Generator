@@ -10,6 +10,10 @@ A README Generator for creating a professional README.md
 
 - Then a quality README is generated.
 
-Link to Video:
+ Video:
+ 
+ https://user-images.githubusercontent.com/84701751/141041776-cb06a439-c556-47bb-a47b-abf371bba2fe.mp4
 
-https://watch.screencastify.com/v/GymIEzRxQcCtUrfpwlXl
+
+
+
